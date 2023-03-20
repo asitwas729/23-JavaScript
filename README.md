@@ -1,13 +1,7 @@
 # 23-JavaScript
 # 2주차
-## 1. JavaScript and Java
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5049bca-86eb-4f3f-b42b-ab7275a25370/Untitled.png)
-
-### JavaScript and EcmaScript
-
+<JavaScript and EcmaScript>
 EcmaScript : 언어의 사양, 표준어+맞춤법
-
 JavaScript : EcmaScript의 방언 
 
 ## 2. Client and Sever
