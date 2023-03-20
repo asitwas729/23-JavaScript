@@ -4,7 +4,7 @@
 EcmaScript : 언어의 사양, 표준어+맞춤법
 JavaScript : EcmaScript의 방언 
 
-## 2. Client and Sever
+### 2. Client and Sever
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/914e1113-85a6-49ae-89da-101f40740719/Untitled.png)
 
